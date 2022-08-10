@@ -141,7 +141,7 @@ body {
     padding: 12px 18px 19px 11px;
 }
 
-.h1 {
+.number {
     font-size: var(--fs-h1);
     font-weight: 800;
     line-height: 73px;
